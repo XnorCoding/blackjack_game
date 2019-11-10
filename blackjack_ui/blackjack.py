@@ -3,7 +3,6 @@ from tkinter import ttk
 from tkinter import *
 from tkinter.messagebox import showinfo
 
-
 from PIL import ImageTk, Image
 
 
